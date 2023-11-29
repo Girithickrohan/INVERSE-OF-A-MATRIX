@@ -18,7 +18,7 @@ inverse_matrix=np.linalg.inv(matrix)
 print(inverse_matrix)
 ```
 ## Output:
-![image]()
+![image](
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
